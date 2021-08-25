@@ -1,4 +1,4 @@
-#Код ревью
+# Код ревью
 
 Делаю README.md и правки к чужому коду в рамках учебной программы от [новичка до Middle](https://dvmn.org/t/middle-python-dev-before-you-finish-the-course/) на онлайн курсах обучению программирования python [Devman](https://dvmn.org/).
 
